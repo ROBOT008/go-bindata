@@ -1,0 +1,3 @@
+# go-bindata
+
+go-bindata
